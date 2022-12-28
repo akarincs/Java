@@ -1,0 +1,1 @@
+Worker{id=ha, name=he, age=20, salary=3000.0, location=gf}
